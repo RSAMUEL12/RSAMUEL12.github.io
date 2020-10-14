@@ -13,7 +13,7 @@
 }
 
 .title {
-  font-family: CooperBlack;
+  font: inherit;
 }
 
 /* Styles provided by website template */
@@ -2099,7 +2099,7 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: CooperBlack;
+    font-family: "Roboto Slab", serif;
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
